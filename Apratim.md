@@ -719,4 +719,3 @@ _**References:**_
        9. (https://www.atlassian.com/git/tutorials/using-branches/git-merge)
        10. (https://www.git-tower.com/learn/git/commands/git-commit)
        11. (https://www.atlassian.com/git/tutorials/saving-changes/git-stash#viewing-stash-diffs)
-
