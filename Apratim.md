@@ -1,5 +1,6 @@
 #  1. What is VCS? and Why it is important?
 
+fgyyht
 **VCS** stands for _**Version Control System**_ . It is also known as **Revision Control** or _**Source Code Management**_ . It is the management  of chances to documents, computer programs, websites or other collection information. 
 
 These changes are often identified as numbers or letter code, termed as revision number. Each revision is associated with meta data like timestamp, author(a person who made changes), etc. Revisions can be compared, restored or merged.
